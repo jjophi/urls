@@ -16,7 +16,11 @@ A small collection of useful urls.
  - [Image slider](https://medium.com/@fionnachan/how-to-write-a-slider-in-pure-javascript-838c0d98fd69)
  - [You might not need jQuery](http://youmightnotneedjquery.com/)
 
+### Color
+ - [Adobe color](https://color.adobe.com/trends)
+
 ## Design Inspirations
+ - [Adobe stock](https://stock.adobe.com/in/)
 
 ### Hospitals
 - [Hamad hospital](https://www.hamad.qa/EN/Pages/default.aspx)
