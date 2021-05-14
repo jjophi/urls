@@ -13,8 +13,15 @@ A small collection of useful urls.
 - [This & That](https://thisthat.dev/)
 - [CSS Grid videos](https://cssgrid.io/)
 
+### JS
+ - [Image slider](https://medium.com/@fionnachan/how-to-write-a-slider-in-pure-javascript-838c0d98fd69)
+ - [You might not need jQuery](http://youmightnotneedjquery.com/)
+
+### Color
+ - [Adobe color](https://color.adobe.com/trends)
 
 ## Design Inspirations
+ - [Adobe stock](https://stock.adobe.com/in/)
 
 ### Hospitals
 - [Hamad hospital](https://www.hamad.qa/EN/Pages/default.aspx)
@@ -51,3 +58,6 @@ A small collection of useful urls.
     - [Sites Listing](https://milanaryal.com.np/a-list-of-the-best-sites-to-download-ebooks-for-free/)
     - [zibraryl](https://b-ok.global/)
 
+
+## Free Resources
+ - [Vector Icons - Simpleicons](https://simpleicons.org/)
