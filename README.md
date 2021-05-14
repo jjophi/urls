@@ -11,6 +11,7 @@ A small collection of useful urls.
 
 ### CSS
 - [This & That](https://thisthat.dev/)
+- [CSS Grid videos](https://cssgrid.io/)
 
 
 ## Design Inspirations
@@ -23,5 +24,30 @@ A small collection of useful urls.
 - [Theme - themeforest](https://demo.kaliumtheme.com/medical/)
 
 ### Flower Nursery
- - [Pinterest Seed desgins](https://www.pinterest.com/pin/32580797280491299/)
+- [Pinterest Seed desgins](https://www.pinterest.com/pin/32580797280491299/)
+
+### Designs
+- [webflow website](https://webflow.com/)
+
+### Websites
+ - [KARI NARRATOR](https://narrator.mauer.co/)
+ - [Qualtrics](https://www.qualtrics.com/au/);
+
+ ## Stock Phots
+
+
+ ## Stock Videos
+  - [Mazwai](https://mazwai.com/)
+
+## Share Market
+   - [Money Control](http://www.moneycontrol.com/)
+   - [Brainstorm](https://www.fyers.in/brainstorm/)
+   - [Equity Master](https://www.equitymaster.com/)
+   - [Google Finance](https://www.google.com/finance)
+   - [Stock Axis](https://www.stockaxis.com/my-stockaxis.aspx)
+   - [Arvind Bajaj](http://www.arvindbajajjackpotking.com/)
+
+## Ebooks
+    - [Sites Listing](https://milanaryal.com.np/a-list-of-the-best-sites-to-download-ebooks-for-free/)
+    - [zibraryl](https://b-ok.global/)
 
