@@ -17,6 +17,9 @@ A small collection of useful urls.
  - [Image slider](https://medium.com/@fionnachan/how-to-write-a-slider-in-pure-javascript-838c0d98fd69)
  - [You might not need jQuery](http://youmightnotneedjquery.com/)
 
+### WordPress
+ - [Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
+
 ### Color
  - [Adobe color](https://color.adobe.com/trends)
 
